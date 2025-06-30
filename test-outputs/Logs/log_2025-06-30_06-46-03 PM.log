@@ -1,0 +1,21 @@
+[INFO] - {30-06-2025 18:46:03} [main] [TestNGLisenter.TestngListener] - test started
+[INFO] - {30-06-2025 18:46:03} [main] [TestNGLisenter.TestngListener] - properties files are  loaded
+[INFO] - {30-06-2025 18:46:03} [main] [TestNGLisenter.TestngListener] - Previous allure report folder is deleted
+[INFO] - {30-06-2025 18:46:03} [main] [TestNGLisenter.TestngListener] - Previous logs folder is deleted
+[INFO] - {30-06-2025 18:46:03} [main] [TestNGLisenter.TestngListener] - Previous screenshot folder is deleted
+[INFO] - {30-06-2025 18:46:03} [main] [TestNGLisenter.TestngListener] - Test started LoginFeatureTest
+[INFO] - {30-06-2025 18:46:03} [main] [TestCases.TC01_LoginTC] - test data json file loaded
+[INFO] - {30-06-2025 18:46:12} [main] [TestCases.TC01_LoginTC] - driver created on firefox
+[INFO] - {30-06-2025 18:46:14} [main] [Pages.P01_LoginPage] - Navigated to login page https://www.saucedemo.com/
+[INFO] - {30-06-2025 18:46:14} [main] [TestCases.TC01_LoginTC] - Navigated to login page https://www.saucedemo.com/
+[INFO] - {30-06-2025 18:46:14} [main] [TestNGLisenter.TestngListener] - Test Case loginTC Started
+[INFO] - {30-06-2025 18:46:15} [main] [Pages.P01_LoginPage] - Entered username standard_user
+[INFO] - {30-06-2025 18:46:15} [main] [Pages.P01_LoginPage] - Entered password secret_sauce
+[INFO] - {30-06-2025 18:46:15} [main] [Pages.P01_LoginPage] - Clicked login button
+[INFO] - {30-06-2025 18:46:16} [main] [Utils.Allure.AllureUtil] - screenshot added to report
+[INFO] - {30-06-2025 18:46:16} [main] [Utils.Allure.AllureUtil] - log file added to report
+[INFO] - {30-06-2025 18:46:16} [main] [TestNGLisenter.TestngListener] - Test Case loginTC Passed
+[INFO] - {30-06-2025 18:46:17} [main] [TestNGLisenter.TestngListener] - Test finished LoginFeatureTest
+[INFO] - {30-06-2025 18:46:17} [main] [TestNGLisenter.TestngListener] - test finished
+[INFO] - {30-06-2025 18:46:20} [main] [Utils.Allure.AllureUtil] - report generated on windows
+[INFO] - {30-06-2025 18:46:20} [main] [Utils.Allure.AllureUtil] - report opened on windows
